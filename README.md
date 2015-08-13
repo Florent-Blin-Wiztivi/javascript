@@ -1,9 +1,6 @@
-# Airbnb JavaScript Style Guide() {
+# Liberty Global JavaScript Style Guide() {
 
-*A mostly reasonable approach to JavaScript*
-
-[![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb.svg)](https://www.npmjs.com/package/eslint-config-airbnb)
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+*A mostly reasonable approach to JavaScript (forked from [airbnb/javascript](https://github.com/airbnb/javascript))*
 
 [For the ES5-only guide click here](es5/).
 
@@ -1998,8 +1995,8 @@
 **Tools**
 
   - Code Style Linters
-    + [ESlint](http://eslint.org/) - [Airbnb Style .eslintrc](https://github.com/airbnb/javascript/blob/master/linters/.eslintrc)
-    + [JSHint](http://www.jshint.com/) - [Airbnb Style .jshintrc](https://github.com/airbnb/javascript/blob/master/linters/jshintrc)
+    + [ESlint](http://eslint.org/) - [Liberty Global Style .eslintrc](https://github.com/LibertyGlobal/javascript/blob/master/linters/.eslintrc)
+    + [JSHint](http://www.jshint.com/) - [Liberty Global Style .jshintrc](https://github.com/LibertyGlobal/javascript/blob/master/linters/jshintrc)
     + [JSCS](https://github.com/jscs-dev/node-jscs) - [Airbnb Style Preset](https://github.com/jscs-dev/node-jscs/blob/master/presets/airbnb.json)
 
 **Other Style Guides**

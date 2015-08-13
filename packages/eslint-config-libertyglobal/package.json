@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-libertyglobal",
-  "version": "0.0.7",
+  "version": "1.0.0",
   "description": "Liberty Global's ESLint config, following our styleguide",
   "main": "index.js",
   "scripts": {

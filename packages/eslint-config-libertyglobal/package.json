@@ -1,29 +1,30 @@
 {
-  "name": "eslint-config-airbnb",
+  "name": "eslint-config-libertyglobal",
   "version": "0.0.7",
-  "description": "Airbnb's ESLint config, following our styleguide",
+  "description": "Liberty Global's ESLint config, following our styleguide",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/airbnb/javascript"
+    "url": "https://github.com/LibertyGlobal/javascript"
   },
   "keywords": [
     "eslint",
     "eslintconfig",
     "config",
     "airbnb",
+    "libertyglobal",
     "javascript",
     "styleguide"
   ],
-  "author": "Jake Teton-Landis (https://twitter.com/@jitl)",
+  "author": "Vladimir Guguiev (wizardzloy@gmail.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/airbnb/javascript/issues"
+    "url": "https://github.com/LibertyGlobal/javascript/issues"
   },
-  "homepage": "https://github.com/airbnb/javascript",
+  "homepage": "https://github.com/LibertyGlobal/javascript",
   "dependencies": {
     "strip-json-comments": "1.0.2"
   }
